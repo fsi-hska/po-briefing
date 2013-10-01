@@ -1,0 +1,3 @@
+[submodule "fsibeamertheme"]
+	path = fsibeamertheme
+	url = git@github.com:fsi-hska/fsibeamertheme.git
